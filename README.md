@@ -1,5 +1,5 @@
 # Linux_command_line_scientific_computing
-- This is a graduate course of ICL.
+- This is a course of ICL.
 
 - Two ways for Windows users to get access to command line application:
             a. [Git for Windows](https://gitforwindows.org) - [video](https://www.youtube.com/watch?v=339AEqk9c-8)
